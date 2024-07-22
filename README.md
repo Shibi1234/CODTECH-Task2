@@ -50,7 +50,6 @@ Users can add and delete tasks as needed.
 
 Project Structure
 
-
 recipe-organizer/
 |-- index.html
 |-- styles.css
@@ -61,7 +60,7 @@ styles.css: The CSS file for styling the application.
 script.js: The JavaScript file for adding interactivity and functionality.
 README.md: The documentation file.
 
-Setup and Installation
+###Setup and Installation
   ->Clone the Repository
   ->Navigate to the Project Directory
   ->Open index.html in a Web Browser
@@ -85,7 +84,7 @@ Setup and Installation
 2. Deleting a Recipe
 3. Click on the "Delete" button next to a recipe.
 4. Confirm the deletion to remove the recipe from your collection.
-5. 
+ 
 **Searching and Filtering Recipes**
 1.Use the search bar to find recipes by title or ingredients.
 2.Use the filter options to narrow down your search based on criteria like cuisine, dietary preferences, etc.
