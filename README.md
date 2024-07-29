@@ -1,9 +1,13 @@
 # CODTECH-Task2
 
-*NAME*    : SHIBIYA CHRISTY L
+*NAME*    : SHIBIYA CHRISTY L                                                                                                                                                                                                                
+
 *COMPANY* : CODTECH IT SOLUTION 
+
 *ID*      : CT4WD4375
+
 *DOMAIM*  : WEB DEVELOPMENT
+
 *DURATION*: JULY TO AUGUST, 2024
 *MENTOR*  : 
 
