@@ -99,3 +99,17 @@ The CSS file contains styles to improve the appearance of the application, makin
 
 JavaScript (script.js)
 The JavaScript file contains the logic for adding, viewing, editing, and deleting recipes, as well as the search and filter functionality.
+
+
+
+![Screenshot (50)](https://github.com/user-attachments/assets/773ca482-9509-41ee-b6b1-2cc3e64dbd56)
+
+![Screenshot (51)](https://github.com/user-attachments/assets/964beec1-ae60-44d0-bdf3-fd31d2002149)
+
+![Screenshot (52)](https://github.com/user-attachments/assets/45d15641-fac9-48ae-b94d-ff55cd275292)
+
+![Screenshot (53)](https://github.com/user-attachments/assets/f77e9057-179b-48dd-b37a-a1024f59464b)
+
+
+
+
